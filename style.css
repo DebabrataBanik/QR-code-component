@@ -19,7 +19,12 @@
 }
 
 body{
+  margin: 0;
+  height: 100vh;
   background-color: var(--light-gray);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .wrapper{
